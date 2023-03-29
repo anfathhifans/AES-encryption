@@ -1,0 +1,7 @@
+
+https://github.com/tasos-py/AES-Encryption-Classes/blob/master/AesEncryption.class.php
+https://stackoverflow.com/questions/3422759/php-aes-encrypt-decrypt
+https://www.linkedin.com/pulse/secure-your-data-aes-256-encryption-decryption-method-deepak-singh/
+https://www.linkedin.com/pulse/how-to-simple-encryptdecrypt-data-php7-mysql-a-j-meli%C3%A1n/
+https://www.linkedin.com/pulse/modern-cryptography-php-72-enrico-zimuel/
+https://www.php.net/manual/en/function.openssl-encrypt.php
